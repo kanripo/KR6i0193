@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說老母經
+#+DATE: 2015-08-30 20:12:23.030235
+#+PROPERTY: JUAN 0
