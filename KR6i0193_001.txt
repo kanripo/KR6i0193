@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:22.793693
+#+DATE: 2015-08-30 20:12:24.255102
 #+TITLE: 佛說老母經
 #+PROPERTY: CBETA_ID T14n0561
 #+PROPERTY: ID KR6i0193
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 561
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0193_T_000-0912c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0193_T_001-0912c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.561[Nos.559,560]¶
-
- 佛說老母經¶
+No. 561 [Nos. 559, 560]¶
+佛說老母經¶
 ¶
 僧祐錄云闕譯人名今附宋錄¶
 
